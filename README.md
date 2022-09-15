@@ -7,7 +7,7 @@ I have been very interested in the world of data science. In this project I used
 ## Dashboard
 I created this dashboard in Tableau to visualize some data. I wanted to work on my Tableau skills as well as learn more about data science careers and job names. 
 
-!<img width="999" alt="Screen Shot 2022-09-12 at 9 03 08 PM" src="https://user-images.githubusercontent.com/90923213/189791693-8af99ade-d097-475c-b601-20e83f0fb5bf.png">) <br/>
+<img width="999" alt="Screen Shot 2022-09-12 at 9 03 08 PM" src="https://user-images.githubusercontent.com/90923213/189791693-8af99ade-d097-475c-b601-20e83f0fb5bf.png"> <br/>
 
 The map shows where our data is from with the darker grey being a higher median salary for that country. 
 The graph on the right shows median salary based on the size of the company from M(medium), L(large), S(small)
